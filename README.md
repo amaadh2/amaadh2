@@ -24,7 +24,7 @@ Also doing freelance development work building ledger and reporting features for
 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-Full-stack React/Supabase app, not just infra, deployed to Azure with Terraform and a GitHub Actions pipeline authenticating via OIDC instead of a stored secret. [Live demo](https://stdissbq4wwi.z33.web.core.windows.net/)
+Full-stack React/Supabase app deployed to Azure with Terraform and a GitHub Actions pipeline authenticating via OIDC instead of a stored secret. [Live demo](https://stdissbq4wwi.z33.web.core.windows.net/)
 
 ## Infrastructure projects
 
