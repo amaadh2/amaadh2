@@ -1,8 +1,8 @@
-# Hi, I'm Amaadh 👋
+# Hi, I'm Amaadh
 
-Computer Science graduate (University of Salford, 2:1), building toward a career in cloud and infrastructure engineering. Over the past few weeks I've built and deployed 7 real Azure projects, Terraform, Bicep, PowerShell automation, networking, monitoring, identity and secrets management, all live, documented, and pushed here, not tutorials followed and forgotten.
+Computer Science graduate (University of Salford), building toward a career in cloud and infrastructure engineering. I build and deploy real Azure projects, Terraform, Bicep, PowerShell automation, networking, monitoring, identity and secrets management, all live, documented, and pushed here.
 
-Currently working toward AZ-900, and doing freelance development work building out ledger and reporting features for a retail management system.
+Also doing freelance development work building ledger and reporting features for a retail management system, and working toward AZ-900.
 
 ## Tech stack
 
