@@ -1,6 +1,6 @@
 # Hi, I'm Amaadh
 
-Building toward a career in cloud, infrastructure, and DevOps engineering. I build and deploy real Azure projects, Terraform, Bicep, PowerShell automation, networking, monitoring, identity and secrets management, all live, documented, and pushed here.
+Building towards a career in cloud, infrastructure, and DevOps engineering. I build and deploy real Azure projects, Terraform, Bicep, PowerShell automation, networking, monitoring, identity and secrets management, all live, documented, and pushed here.
 
 Also doing freelance development work building ledger and reporting features for a retail management system, and working toward the AZ-900 certificate.
 
